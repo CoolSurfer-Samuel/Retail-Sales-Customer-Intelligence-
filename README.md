@@ -2,6 +2,9 @@
 Retail sales analytics project using SQL, Power BI, Python, WEKA, forecasting, customer segmentation, and RFM analysis.
 Project Screenshots
 
+Power-BI Dashboard
+![Dashboard](Screenshots/dashboard%20.png)
+
 K-Means Clustering
 ![KMeans](Screenshots/k-means%20clustering.png)
 
