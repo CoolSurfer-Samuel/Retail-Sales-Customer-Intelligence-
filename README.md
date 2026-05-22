@@ -5,6 +5,9 @@ Project Screenshots
 K-Means Clustering
 ![KMeans](screenshots/k-means%20graph.png)
 
+K-Means Clustering
+![KMeans](screenshots/k-means%20clustering.png)
+
 
 RFM Analysis
 ![RFM](screenshots/rfm.png)
