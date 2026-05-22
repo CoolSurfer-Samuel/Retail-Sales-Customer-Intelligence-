@@ -2,19 +2,45 @@
 Retail sales analytics project using SQL, Power BI, Python, WEKA, forecasting, customer segmentation, and RFM analysis.
 Project Screenshots
 
-Power-BI Dashboard
-![Dashboard](Screenshots/dashboard%20.png)
+Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+---
 
 K-Means Clustering
 ![KMeans](Screenshots/k-means%20clustering.png)
 
-K-Means Graph
-![KMeans](Screenshots/k-means%20graph.png)
+---
 
+K-Means Graph
+![KMeansGraph](Screenshots/k-means%20graph.png)
+
+---
+
+Prediction Graph
+![Prediction](Screenshots/prediction.png)
+
+---
+
+Prediction Info
+![PredictionInfo](Screenshots/prediction%20info.png)
+
+---
 
 RFM Analysis
-![RFM](screenshots/rfm.png)
+![RFM](Screenshots/rfm.png)
 
+---
+
+RFM Bar Graph
+![RFMBar](Screenshots/rfm%20bar%20graph.png)
+
+---
+
+RFM Graph
+![RFMGraph](Screenshots/rfm%20graph.png)
+
+---
 
 RFM Table
-![RFM Table](screenshots/rfm%20table.png)
+![RFMTable](Screenshots/rfm%20table.png)
