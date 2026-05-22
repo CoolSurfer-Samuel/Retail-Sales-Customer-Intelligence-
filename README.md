@@ -3,10 +3,10 @@ Retail sales analytics project using SQL, Power BI, Python, WEKA, forecasting, c
 Project Screenshots
 
 K-Means Clustering
-![KMeans](screenshots/k-means%20clustering.png)
+![KMeans](Screenshots/k-means%20clustering.png)
 
-K-Means Clustering
-![KMeans](screenshots/k-means%20graph.png)
+K-Means Graph
+![KMeans](Screenshots/k-means%20graph.png)
 
 
 RFM Analysis
